@@ -1,7 +1,6 @@
 ![Dashboard Image](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/image/dashboard.PNG)
 
-# UKK Laundry App OFFLINE
-Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
+# Laundry App
 
 #### Dokumentasi
 - [Referensi Database dan fungsionalitas](https://github.com/gagassurya19/Laundry-app-offline/blob/main/docs/modul/2136-P3-SPK-Rekayasa%20Perangkat%20Lunak.doc)
