@@ -13,7 +13,7 @@ Project ini dibuat untuk mempersiapkan UKK sebagai modul nantinya.
 
 #### Instalasi
 1. Clone repository ini:
-`git clone https://github.com/gagassurya19/Laundry-app-offline.git`
+`git clone https://github.com/adindayudaa17/laundry-app.git`
 
 2. Install node_modules, buka folder `be` atau `fe` terlebih dahulu
 `npm install`
